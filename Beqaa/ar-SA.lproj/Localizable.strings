@@ -1,0 +1,72 @@
+
+//Home
+
+"hallo" = " مرحبا" ;
+"changeLanguage" = "تغيير اللغة" ;
+"Quran" = "قران";
+"ADD Photo" = "أضافة صورة" ;
+"Camera" = "الكاميرا" ;
+"Photo Library" = "" ;
+"BEQAA" = "بِقاع" ;
+"Cancel" = "إغلاق" ;
+"Ministry" = "الوزارة" ;
+"Systems" = "آنظمة وللوائح" ;
+"Communication service" = "اتصل بنآ" ;
+"Change Language" = "تغيير اللغة" ;
+"InformationBarcode" = "معلومات الباركود" ;
+"name" = "الاسم" ;
+"Descrabshin" = "الوصف" ;
+"Date" = "تاريخ الانشاء" ;
+"Mosque Al-Rajhi" = "مسجد الراجحي" ;
+"Mosque Al-Ali" = "مسجد العلي" ;
+"Mosque" = "مسجد" ;
+"Imam Turki bin Abdullah Mosque" = "مسجد الامام تركي بن عبدالله" ;
+"Mosque" = "مسجد" ;
+"Al-Haram Mosque" = "المسجد الحرام" ;
+"Prophet's Mosque " = "المسجد النبوي" ;
+"mosque system" = "نظام المساجد" ;
+"facilitation system" = "نظام تيسير " ;
+"Quran competition system" = " نظام مسابقة القران الكريم الدوليه والمحلية" ;
+"hosting system" = "نظام استضافة ضيوف خادم الحرمين الشريفين في الحج والعمرة" ;
+"Quran associations management system" = "نظام إدارة جمعيات تحفيظ القرآن الكريم" ;
+"User Name" = "أسم المستخدم" ;
+"Profile" = "الملف الشخصي" ;
+"Regulations regulating the relationship between the Ministry of Labor and Social Development and the technical supervising bodies of NGOs and institutions" = "3- لائحة تنظيم العلاقة بين وزارة العمل والتنمية الاجتماعية وأجهزة الإشراف الفني على المنظمات غير الحكومية والمؤسسات";
+
+"QR" = "الباركود" ;
+"User Name" = "أسم المستخدم" ;
+"Performance charter for the employee on the supervisory position" = "ميثاق أدا الموظف في الوظيفه الاشرافية" ;
+" Regulations regulating the relationship between the Ministry of Labor and Social Development and the technical supervising bodies of NGOs and institutions" = " لائحة تنظيم العلاقة بين وزارة العمل والتنمية الاجتماعية وأجهزة الإشراف الفني على المنظمات غير الحكومية والمؤسسات";
+"Document of administrative violations of precautionary measures to confront the outbreak of the Covid-19 virus" = "وثيقة المخالفات الإدارية للإجراءات الاحترازية لمواجهة تفشي فيروس كوفيد -19" ;
+"Procedural guide to prevent corona virus in the workplace" = "دليل إجرائي للوقاية من فيروس كورونا في أماكن العمل" ;
+"Executive Regulations for Human Resources in the Civil Service" = "اللائحة التنفيذية للموارد البشرية في الخدمة المدنية" ;
+"promotions list" = "قائمة الترقيات" ;
+" Code of Conduct and Ethics for Public Service" = "مدونة قواعد السلوك والأخلاق للخدمة العامة" ;
+"Performance charter for an employee on a non-supervisory position" = "ميثاق الأداء للموظف في الوظيفة غير الإشرافية" ;
+"Regulation of work organization for the employees of the general supervision and the general secretariat" = "تنظيم تنظيم العمل لموظفي الإشراف العام والأمانة العامة" ;
+"Email " = "الايميل" ;
+"City" = "المدينه" ;
+"ID" = "رقم الهوية" ;
+"Website link" = "رابط الموقع" ;
+"the address :\nSaudi Arabia Riyadh\nKing Fahd Road next to Al-Faisaliah Tower\nZip Code: 11232" = "العنوان: \ n الرياض السعودية \ n طريق الملك فهد بجوار برج الفيصلية \ n الرمز البريدي: 11232" ;
+"Create New Account" = "أنشاء حساب جديد" ;
+"Location" = "الموقع" ;
+"Map" = "الخريطة" ;
+"Date" = "تاريخ الانشاء" ;
+"Phone Number" = "رقم الجوال" ;
+"Registration" = "التسجيل" ;
+"Description" = "الوصف" ;
+"Home" = "الرئيسية" ;
+"Password" = "كلمة المرور" ;
+"Log out" = "تسجيل الخروج" ;
+"Don't have an account?" = "ليس لديك حساب " ;
+"ThePhone:00966-11-223-6222" = "الهاتف: 6222-11-223-00966" ;
+"\nIn the face of the increasing need of the Islamic world for the Noble Qur’an, the translation of its meanings into the various languages ​​spoken by Muslims, and the care of its various sciences, as well as serving the Sunnah and the purified biography of the Prophet.\nAssuming the Kingdom’s pioneering role in serving Islam and Muslims, and sensing from the Custodian of the Two Holy Mosques King Fahd bin Abdulaziz, may God have mercy on him, the importance of serving the Noble Qur’an and the purified Sunnah of the Prophet through a dedicated and dedicated apparatus for this great work, he laid the foundation stone for the King Fahd Complex for the Printing of the Noble Qur’an in Madinah on the sixth The tenth of Muharram in the year 1403 AH (1982 AD).And he opened it, may God have mercy on him, on the sixth of Safar 1405 AH (1984 AD)" = " في مواجهة حاجة العالم الإسلامي المتزايدة للقرآن الكريم ، وترجمة معانيه إلى اللغات المختلفة التي يتحدث بها المسلمون ، والاهتمام بعلومه المختلفة ، وكذلك خدمة السنة النبوية والشريعة الإسلامية. السيرة النبوية المطهرة ، بافتراض دور المملكة الرائد في خدمة الإسلام والمسلمين واستشعار خادم الحرمين الشريفين الملك فهد بن عبد العزيز رحمه الله أهمية خدمة القرآن الكريم. السنة النبوية المطهرة بجهاز متفاني ومتفاني لهذا العمل العظيم وضع حجر الأساس لمجمع الملك فهد لطباعة المصحف الشريف بالمدينة المنورة في السادس من محرم عام 1403 هـ. (1982 م).  وفتحه رحمه الله في السادس من صفر 1405 هـ (1984 م)." ;
+"Royal Decree No. A/3 dated 20 Muharram 1414 AH was issued to establish the Ministry of Islamic Affairs, Endowments, Call and Guidance to supervise all matters related to charitable endowments and the development of their notables, and to the affairs of mosques and chapels (construction, maintenance and cleaning) and general supervision of the King Fahd Complex To print the Noble Qur’an, organize local and international competitions for memorizing, reciting and reciting the Book of God, and the purified Sunnah, as well as calling to God at home and abroad, supervising Islamic centers, assisting Muslim minorities and communities abroad, coordinating with Islamic bodies, and supporting Islamic universities and institutes abroad. And highlight the Kingdom's efforts in supporting Islamic work" = "صدر المرسوم الملكي رقم أ / 3 بتاريخ 20 محرم 1414 هـ بإنشاء وزارة الشؤون الإسلامية والأوقاف والدعوة والإرشاد للإشراف على كل ما يتعلق بالأوقاف الخيرية وتنمية أعيانها ، وشؤون المساجد والمصليات. (بناء وصيانة ونظافة) والإشراف العام لمجمع الملك فهد لطباعة المصحف الشريف وتنظيم مسابقات محلية ودولية لحفظ وتلاوة وتلاوة كتاب الله والسنة النقية والدعوة إلى الله. في الداخل والخارج ، والإشراف على المراكز الإسلامية ، ومساعدة الأقليات والجاليات المسلمة في الخارج ، والتنسيق مع الهيئات الإسلامية ، ودعم الجامعات والمعاهد الإسلامية في الخارج. وإبراز جهود المملكة في دعم العمل الإسلامي" ;
+"Name" = "الاسم" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+
+

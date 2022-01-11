@@ -18,7 +18,7 @@ struct MosqueQR : Codable {
  JSON
  
  {
-  "name" : "",
+ "name" : "",
  "Descrabshin" : "",
  "Date" : ""
  }
