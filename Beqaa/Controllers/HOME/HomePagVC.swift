@@ -31,7 +31,7 @@ extension HomePagVC:  UICollectionViewDelegate , UICollectionViewDataSource,UICo
     }
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         
-        guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell" , for: indexPath) as? HomePagCollectionViewCell  else { return UICollectionViewCell() }
+        guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "cell" , for: indexPath) as? HomePagCell  else { return UICollectionViewCell() }
         
         cell.logoRganizeIt.image = organization[indexPath.row].logoName
         cell.Organization.setTitle(organization[indexPath.row].name, for: .normal)

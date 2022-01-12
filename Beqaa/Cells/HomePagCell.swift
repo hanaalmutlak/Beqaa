@@ -7,7 +7,7 @@
 
 import UIKit
 
-class HomePagCollectionViewCell: UICollectionViewCell {
+class HomePagCell: UICollectionViewCell {
     
     @IBOutlet weak var logoRganizeIt: UIImageView!
     @IBOutlet weak var Organization: UIButton!
