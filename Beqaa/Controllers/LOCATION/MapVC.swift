@@ -33,9 +33,9 @@ class MapVC: UIViewController, CLLocationManagerDelegate {
     func setStartLocation(location: CLLocation, distance: CLLocationDistance) {
         let region = MKCoordinateRegion(center: location.coordinate, latitudinalMeters: distance, longitudinalMeters: distance)
         Map.setRegion(region, animated: true)
-        Map.setCameraBoundary(MKMapView.CameraBoundary(coordinateRegion: region), animated: true)
+//        Map.setCameraBoundary(MKMapView.CameraBoundary(coordinateRegion: region), animated: true)
         let zoomRange = MKMapView.CameraZoomRange(maxCenterCoordinateDistance: 300000)
-        Map.setCameraZoomRange(zoomRange, animated: true)
+//        Map.setCameraZoomRange(zoomRange, animated: true)
         
     }
     //Add the coordinates of the required mosques, coordinate number X and Y

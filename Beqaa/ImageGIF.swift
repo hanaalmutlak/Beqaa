@@ -5,9 +5,9 @@
 //  Created by hana Alshammri on 19/05/1443 AH.
 ////
 ////
-import UIKit
-import FirebaseAuth
-class ChangeLanguage: UIViewController {
+//import UIKit
+//import FirebaseAuth
+//class ChangeLanguage: UIViewController {
 //
 //    @IBOutlet weak var btnChangeLanguage: UIButton!
 //    @IBOutlet weak var IblHello: UILabel!
@@ -33,4 +33,4 @@ class ChangeLanguage: UIViewController {
 //
 //
 //}
-}
+//
