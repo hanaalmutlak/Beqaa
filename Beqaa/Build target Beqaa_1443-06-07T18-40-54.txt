@@ -1,0 +1,6 @@
+
+Showing Recent Messages
+The operation couldn’t be completed. Unable to log in with account 'hanooalshmmri3@gmail.com'. The login details for account 'hanooalshmmri3@gmail.com' were rejected.
+
+No profiles for 'com.github-hanaalmutlak.Beqaa' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'com.github-hanaalmutlak.Beqaa'.
+
