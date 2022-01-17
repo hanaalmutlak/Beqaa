@@ -438,12 +438,6 @@
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="QQa-XN-d55">
                                 <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="profail" translatesAutoresizingMaskIntoConstraints="NO" id="nuP-ro-vvy">
-                                <rect key="frame" x="0.0" y="0.0" width="428" height="235.33333333333334"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="428" id="eRr-bb-DvY"/>
-                                </constraints>
-                            </imageView>
                             <stackView opaque="NO" tag="-1" contentMode="scaleAspectFill" axis="vertical" distribution="fillEqually" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="4oc-Ek-Esf">
                                 <rect key="frame" x="20" y="243" width="388" height="411"/>
                                 <subviews>
@@ -559,6 +553,12 @@
                                     <constraint firstItem="mYp-Yu-Cm4" firstAttribute="top" secondItem="WjK-dl-A6g" secondAttribute="top" constant="30" id="62x-nA-4kf"/>
                                 </constraints>
                             </stackView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="profail" translatesAutoresizingMaskIntoConstraints="NO" id="nuP-ro-vvy">
+                                <rect key="frame" x="0.0" y="0.0" width="428" height="449"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="428" id="eRr-bb-DvY"/>
+                                </constraints>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="03D-EG-Nlq"/>
                         <color key="backgroundColor" red="0.99414068460464478" green="0.99414068460464478" blue="0.99414068460464478" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -566,7 +566,7 @@
                             <constraint firstItem="OwJ-1a-vQB" firstAttribute="leading" secondItem="03D-EG-Nlq" secondAttribute="leading" constant="20" id="1Qs-0E-48x"/>
                             <constraint firstItem="WjK-dl-A6g" firstAttribute="top" secondItem="03D-EG-Nlq" secondAttribute="top" constant="24" id="1qS-1I-VgE"/>
                             <constraint firstItem="QdG-OH-FjZ" firstAttribute="top" secondItem="4oc-Ek-Esf" secondAttribute="bottom" constant="35" id="Bcq-ZV-4rG"/>
-                            <constraint firstItem="4oc-Ek-Esf" firstAttribute="top" secondItem="nuP-ro-vvy" secondAttribute="bottom" constant="7.6666666666666288" id="BfV-Ez-4AH"/>
+                            <constraint firstItem="4oc-Ek-Esf" firstAttribute="top" secondItem="nuP-ro-vvy" secondAttribute="bottom" constant="-206" id="BfV-Ez-4AH"/>
                             <constraint firstItem="nuP-ro-vvy" firstAttribute="leading" secondItem="03D-EG-Nlq" secondAttribute="leading" id="Bso-XY-4qa"/>
                             <constraint firstItem="OwJ-1a-vQB" firstAttribute="top" secondItem="03D-EG-Nlq" secondAttribute="top" constant="24" id="C2a-YS-po3"/>
                             <constraint firstItem="WjK-dl-A6g" firstAttribute="centerX" secondItem="gFN-6U-NZk" secondAttribute="centerX" id="D44-o9-tpz"/>
@@ -735,7 +735,7 @@
                                 </subviews>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" alpha="0.55000000000000004" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Create New Account" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gfO-3k-lDP">
-                                <rect key="frame" x="126.66666666666669" y="16" width="175" height="26.333333333333329"/>
+                                <rect key="frame" x="126.66666666666669" y="15.999999999999998" width="175" height="26.333333333333329"/>
                                 <fontDescription key="fontDescription" name="AmericanTypewriter-CondensedBold" family="American Typewriter" pointSize="22"/>
                                 <color key="textColor" name="Col"/>
                                 <nil key="highlightedColor"/>
