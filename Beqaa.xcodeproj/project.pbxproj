@@ -19,6 +19,7 @@
 		206CDA6927777625002D5C4B /* RegistrtionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206CDA6827777625002D5C4B /* RegistrtionVC.swift */; };
 		2076CEE7277DDFA1000237E0 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2076CEE6277DDFA1000237E0 /* Home.swift */; };
 		2076CEE92780C3EB000237E0 /* MapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2076CEE82780C3EB000237E0 /* MapVC.swift */; };
+		208113BE279597D700D37722 /* Questionnaire.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208113BD279597D700D37722 /* Questionnaire.swift */; };
 		20819F0827782D5A002DD0AA /* ScannerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20819F0727782D5A002DD0AA /* ScannerVC.swift */; };
 		20819F0A27782E44002DD0AA /* InformationSVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20819F0927782E44002DD0AA /* InformationSVC.swift */; };
 		20819F0C27785F00002DD0AA /* MosqueQR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20819F0B27785F00002DD0AA /* MosqueQR.swift */; };
@@ -51,6 +52,7 @@
 		206CDA6827777625002D5C4B /* RegistrtionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrtionVC.swift; sourceTree = "<group>"; };
 		2076CEE6277DDFA1000237E0 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		2076CEE82780C3EB000237E0 /* MapVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapVC.swift; sourceTree = "<group>"; };
+		208113BD279597D700D37722 /* Questionnaire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questionnaire.swift; sourceTree = "<group>"; };
 		20819F0727782D5A002DD0AA /* ScannerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerVC.swift; sourceTree = "<group>"; };
 		20819F0927782E44002DD0AA /* InformationSVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationSVC.swift; sourceTree = "<group>"; };
 		20819F0B27785F00002DD0AA /* MosqueQR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MosqueQR.swift; sourceTree = "<group>"; };
@@ -229,6 +231,7 @@
 				CE52CAEF278F7FBF0092D492 /* QuranViewController.swift */,
 				CE52CAF1278F81C80092D492 /* MinistryViewController.swift */,
 				CE52CAF3278F83FA0092D492 /* SystemViewController.swift */,
+				208113BD279597D700D37722 /* Questionnaire.swift */,
 			);
 			path = TEXTVIEWS;
 			sourceTree = "<group>";
@@ -370,6 +373,7 @@
 				CE52CAF0278F7FBF0092D492 /* QuranViewController.swift in Sources */,
 				2076CEE7277DDFA1000237E0 /* Home.swift in Sources */,
 				20819F0C27785F00002DD0AA /* MosqueQR.swift in Sources */,
+				208113BE279597D700D37722 /* Questionnaire.swift in Sources */,
 				2076CEE92780C3EB000237E0 /* MapVC.swift in Sources */,
 				206CDA602774ACDE002D5C4B /* UserApi.swift in Sources */,
 				CE52CAF2278F81C80092D492 /* MinistryViewController.swift in Sources */,

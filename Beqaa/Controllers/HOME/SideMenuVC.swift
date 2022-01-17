@@ -16,7 +16,7 @@ class SideMenuVC: UIViewController {
     
     
     
-    let menu = ["ministry".localized,"quran".localized ,"systems".localized, "communication_service".localized]
+    let menu = ["ministry".localized,"quran".localized ,"systems".localized, "communication_service".localized, "Questionnaire".localized]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -51,6 +51,8 @@ extension SideMenuVC : UITableViewDelegate,UITableViewDataSource{
             performSegue(withIdentifier: "Systems", sender: nil)
         case 3 :
             performSegue(withIdentifier:  "CommunicationService", sender: nil)
+        case 4 :
+            performSegue(withIdentifier:  "Questionnaire", sender: nil)
             
         default:
             print("")
